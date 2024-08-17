@@ -1,0 +1,16 @@
+django
+uuid
+social-auth-app-django
+requests 
+Pillow  
+djangorestframework 
+django-shortcuts 
+django-allauth
+decorator
+drf-extra-fields
+opencv-python
+tensorflow
+python-magic
+django-cors-headers
+firebase-admin
+firebase
